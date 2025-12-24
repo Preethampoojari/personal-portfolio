@@ -28,8 +28,9 @@ const projects = [
       "Personal portfolio website built to showcase my projects, skills, and experience using React and Tailwind CSS, with a focus on responsive design and performance.",
     image: "/projects/project3.png",
     tags: ["React", "TailwindCSS"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl:
+      "https://personal-portfolio-mhe2dv1zy-preethams-projects-491e4080.vercel.app/",
+    githubUrl: "https://github.com/Preethampoojari/personal-portfolio",
   },
 ];
 
